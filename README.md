@@ -1,5 +1,7 @@
 # Email Builder
 
+**PLEASE NOTE: THE PROJECT IS ARCHIVED, NO SUPPORT IS PROVIDED FOR THIS PROJECT!!!** 
+
 Drag'n'drop email builder.
 
 ![email-builder-ui](https://user-images.githubusercontent.com/10295466/37458623-a03b9c4c-2856-11e8-9061-c8e126937729.png)
@@ -52,8 +54,6 @@ v1.0.0 - March 15, 2018
 v1.1.0 - May 08, 2018
   - Fancybox API update
 ```
-
-**PLEASE, NOTE: WE DO NOT PROVIDE ADVANCED SUPPORT FOR THIS PROJECT** 
 
 ## Credits
 - [Max Kostinevich](https://maxkostinevich.com)
